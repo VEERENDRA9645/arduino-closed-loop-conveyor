@@ -64,6 +64,10 @@ The motor driver interfaces the Arduino with the DC motor and controls the motor
 
 The system therefore combines user input, microcontroller-based processing, motor control, and display interfacing to operate the conveyor.
 
+## 🎥 Project Demonstration
+
+[▶️ Watch the Project Demonstration](https://drive.google.com/file/d/1Jj86ETv7pQv7pJjzgRMv7nwQ7uJrXRx5/view?usp=drivesdk)
+
 ---
 
 ## 🏗️ System Block Diagram
@@ -95,8 +99,3 @@ The system therefore combines user input, microcontroller-based processing, moto
            ▼
        16×2 LCD
 
-## 🎥 Project Demonstration
-
-A demonstration video of the working Arduino-Based Closed-Loop Conveyor System is available below:
-
-[▶️ Watch Project Demonstration](https://drive.google.com/file/d/1Jj86ETv7pQv7pJjzgRMv7nwQ7uJrXRx5/view?usp=drivesdk)
